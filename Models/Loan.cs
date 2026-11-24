@@ -9,7 +9,6 @@ public class Loan
     public DateTime DueDate { get; }
 
     public DateTime? ReturnDate { get; private set; }
-    public DateTime? ReturnDate { get; private set; }
 
     public bool IsReturned => ReturnDate.HasValue;
 

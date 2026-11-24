@@ -1,7 +1,3 @@
-using LibraryManagementSystem.Models;
-using LibraryManagementSystem.Interfaces;
-
-namespace LibraryManagementSystem.Services;
 
 public class Library
 {

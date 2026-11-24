@@ -1,7 +1,4 @@
-﻿using LibraryManagementSystem.Models;
-using LibraryManagementSystem.Services;
-
-Library library = new Library();
+﻿Library library = new Library();
 
 bool running = true;
 
